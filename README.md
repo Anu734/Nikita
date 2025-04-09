@@ -1,7 +1,9 @@
 # Nikita
+<b>
 This is my first Git  Repository.
 <br>
-To enhance my skills and gain some knowledge ,
+To enhance my skills and gain some knowledge,
 <br>
-<and learn some new idea 
+and learn some new idea.
+<br>
 Author :- Nikita Gupta 
